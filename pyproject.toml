@@ -1,5 +1,5 @@
 [project]
-name = "calculator-server"
+name = "calculator-server-scaredykitcat"
 version = "0.1.0"
 description = "MCP Calculator Server"
 requires-python = ">=3.10"
@@ -8,7 +8,7 @@ dependencies = [
 ]
 
 [project.scripts]
-calculator-server = "mcp_server_calculator:main"
+calculator-server-scaredykitcat = "mcp_server_calculator:main"
 
 [build-system]
 requires = ["hatchling"]
