@@ -9,7 +9,7 @@
         "git+https://github.com/scaredykitcat/mcp-calculator@main",
         "calculator-server-scaredykitcat"
       ],
-      "env";{}
+      "env":{}
     }
   }
 }
