@@ -2,13 +2,14 @@
 ```
 {
   "mcpServers": {
-    "calculator-server": {
+    "calculator-server-scaredykitcat": {
       "command": "uvx",
       "args": [
         "--from",
         "git+https://github.com/scaredykitcat/mcp-calculator@main",
-        "calculator-server"
-      ]
+        "calculator-server-scaredykitcat"
+      ],
+      "env";{}
     }
   }
 }
